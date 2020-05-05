@@ -205,7 +205,7 @@
 						var h = $intro.height();
 
 						if (h > $window.height())
-							$intro.css('height', 'auto');
+							$intro.css('height', '1000px');
 						else
 							$intro.css('height', h);
 
